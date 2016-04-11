@@ -1,10 +1,9 @@
 {
-  "name": "ui-boostrap-custome-datepicker",
+  "name": "ui-bootsrap-custom-datepicker",
   "version": "0.3.1",
-  "description": "ui-boostrap-custome-datepicker",
+  "description": "ui-bootsrap-custom-datepicker",
   "keywords": [
     "angular",
-    "tpl-table"
   ],
   "private": true,
   "licenses": [],
